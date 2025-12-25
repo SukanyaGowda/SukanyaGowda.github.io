@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sukanyagowda.github.io/My_Portfolio/sitemap.xml
