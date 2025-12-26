@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const roles = [
         "Full-Stack Developer",
         "Python Developer",
-        "Django & FastAPI Developer",
+        "Django Developer",
+        "FastAPI Developer",
         "React Developer"
     ];
 

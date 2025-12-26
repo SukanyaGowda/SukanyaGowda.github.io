@@ -170,8 +170,9 @@ header {
 .typewriter {
     color: #be5eff;
     display: inline-block;
-    min-width: 300px;
-    /* Prevent layout shift if possible, or leave flexible */
+    min-width: 350px;
+    white-space: nowrap;
+    /* Prevent layout shift */
 }
 
 .gradient-text {
@@ -585,7 +586,7 @@ footer {
     }
 
     .hero-title {
-        font-size: 2.5rem;
+        font-size: 2rem;
         padding: 0 20px;
     }
 
