@@ -20,6 +20,12 @@ export default function Home() {
       description: "Modern residential construction management system ensuring quality and timely delivery of housing projects.",
       image: "/gruhams.png",
       tags: ["Figma", "React", "Tailwind"]
+    },
+    {
+      title: "SS Tours & Cabs",
+      description: "A modern travel and cab booking platform offering streamlined ride booking and tour packages.",
+      image: "/ss_tours.png",
+      tags: ["React", "Vite", "Web App"]
     }
   ];
 
