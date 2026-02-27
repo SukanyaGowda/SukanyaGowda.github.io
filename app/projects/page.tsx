@@ -20,7 +20,12 @@ export default function Projects() {
             image: "/gruhams.png",
             tags: ["React", "TailwindCSS", "Figma"]
         },
-        // Adding duplicates for grid demonstration if needed, or placeholders
+        {
+            title: "SS Tours & Cabs",
+            description: "A modern travel and cab booking platform offering streamlined ride booking and tour packages.",
+            image: "/ss_tours.png",
+            tags: ["React", "Vite", "Web App"]
+        }
     ];
 
     return (
