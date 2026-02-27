@@ -72,7 +72,7 @@ export default function About() {
                             boxShadow: '0 20px 50px rgba(0,0,0,0.5)'
                         }}>
                             <Image
-                                src="/sukanya_profile.jpg"
+                                src="/sukanya_profile_new.jpg"
                                 alt="Sukanya B"
                                 fill
                                 style={{ objectFit: 'cover' }}

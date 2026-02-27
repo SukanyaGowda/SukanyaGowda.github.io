@@ -35,7 +35,7 @@ const Hero = () => {
 
             <div className={styles.imageContainer}>
                 <Image
-                    src="/sukanya_profile.jpg"
+                    src="/sukanya_profile_new.jpg"
                     alt="Sukanya B Profile"
                     fill
                     style={{ objectFit: 'cover' }}
